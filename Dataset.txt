@@ -1,0 +1,3 @@
+you can access the Dataset using Dropbox link:
+
+https://www.dropbox.com/scl/fi/wyzqkmcdg9cmfdb088az8/AIML-Dataset.zip?rlkey=jhvm95jj8yoddowi20wdm9udq&st=j3pfho5m&dl=0
